@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhiram</h1>
 <h3 align="center">Aka, Twilighty Abhi</h3>
-<h3 align="center">A passionate programmer and filmmaker from India <sub>also a podcaster</sub></h3>
+<h3 align="center">A passionate programmer and community evangelist from India <sub>also a podcaster</sub></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twilighty-abhi&label=Profile%20views&color=0e75b6&style=flat" alt="twilighty-abhi" /> </p>
 
@@ -14,19 +14,19 @@
 
 - 🔭 I’m currently working on **node.js**
 
-- 🌱 I’m currently learning **Python and Web development and BTech too**
+- 🌱 I’m currently learning **Python and Web development and BTech (Sophomore) too**
 
 - 💬 Ask me about **auto hot key**
 
-- 📫 How to reach me **abhiramnj@gmail.com**
+- 📫 How to reach me **admin@abhiramnj.live**
 
-- ⚡ Fun fact **I think im nerdy enough to be an non existential being.**
+- ⚡ Fun factor **I may or may not exist as the person that you thought I'm.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/twilightyabhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twilightyabhi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhiram-n-j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiram-n-j" height="30" width="40" /></a>
-<a href="https://instagram.com/twilighty__abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="twilighty__abhi" height="30" width="40" /></a>
+<a href="https://instagram.com/abhiramhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhiramhhh" height="30" width="40" /></a>
 <a href="/https://anchor.fm/s/49516dd4/podcast/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://anchor.fm/s/49516dd4/podcast/rss" height="30" width="40" /></a>
 </p>
 
