@@ -1,7 +1,4 @@
 
-
-
-
 <h1 align="center">Hi 👋, I'm Abhiram</h1>
 <h3 align="center">Aka, Twilighty Abhi</h3>
 <h3 align="center">A passionate programmer and community evangelist from India <sub>also a podcaster</sub></h3>
@@ -12,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/twilightyabhi" target="blank"><img src="https://img.shields.io/twitter/follow/twilightyabhi?logo=twitter&style=for-the-badge" alt="twilightyabhi" /></a> </p>
 
-- 🔭 I’m currently working on **node.js**
+- 🔭 I’m currently working on **Containers**
 
-- 🌱 I’m currently learning **Python and Web development and BTech (Sophomore) too**
+- 🌱 I’m currently learning **Web development, DevOps and BTech (Sophomore) too**
 
 - 💬 Ask me about **auto hot key**
 
