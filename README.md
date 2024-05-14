@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Containers**
 
-- 🌱 I’m currently learning **Web development, DevOps and BTech (Sophomore) too**
+- 🌱 I’m currently learning **Web development, DevOps and BTech (Senior year) too**
 
 - 💬 Ask me about **auto hot key**
 
