@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **auto hot key**
 
-- 📫 How to reach me **abhiramnj+github@gmail.com**
+- 📫 How to reach me **hi@abhiramnj.com**
 
 - ⚡ Fun factor **I may or may not exist as the person that you thought I'm.**
 
